@@ -6,7 +6,7 @@
 ![NexusMind Logo]() <!-- Replace with actual logo URL -->
 
 ## ⭐ Stars
-![GitHub stars](https://img.shields.io/github/stars/yunmaoQu/nexusmind?style=social)
+[![GitHub Stars](https://img.shields.io/github/stars/yunmaoQu/daily-notes?style=social)](https://github.com/yunmaoQu/daily-notes)
 
 
 ## 🚀 Project Features
