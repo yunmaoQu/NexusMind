@@ -1,9 +1,9 @@
 
 # 🌐 NexusMind
 
-**NexusMind** is a high-performance, intelligent content generation and management platform built on **Java 17** and **Spring Boot 3.x**. It integrates various AI models (like **GPT-4**, **Claude 4**, **Midjourney**, etc.) and advanced search engine technologies to deliver an efficient, personalized content creation experience. 
+**NexusMind** is a high-performance, intelligent content generation and management platform built on **Java 17** and **Spring Boot 3.x**. It integrates various AI models (like **GPT-o1.5**, **Claude 4**, **Midjourney6.4**, etc.) and advanced search engine technologies to deliver an efficient, personalized content creation experience. 
 
-![NexusMind Logo]() <!-- Replace with actual logo URL -->
+![NexusMind Logo](https://cdn-fusion.imgcdn.store/i/2024/d109d27f3b642b39.png) <!-- Replace with actual logo URL -->
 
 ## ⭐ Stars
 [![GitHub Stars](https://img.shields.io/github/stars/yunmaoQu/daily-notes?style=social)](https://github.com/yunmaoQu/daily-notes)
@@ -21,7 +21,7 @@
   - ⚡ **Optimized Performance:** Uses Project Loom for improved concurrency in image processing.
 
 - **Intelligent Prompt System**  
-  - 🤖 **Smart Suggestions:** Built on GPT-4 Turbo and Claude 3, utilizing RLHF for precise content generation.  
+  - 🤖 **Smart Suggestions:** Built on strongest llms, utilizing RLHF for precise content generation.  
   - 🚀 **Fast Responses:** Redis Stack accelerates prompt response times.
 
 - **Knowledge Base & Search Optimization**  
@@ -36,16 +36,16 @@
 ## ⚙️ Technical Stack
 
 - **Languages & Frameworks:**  
-  - Java 17, Spring Boot 3.x, OAuth 2.1, JWT, Redis, PostgreSQL
+  - Java 22, Spring Boot 3.x, OAuth 2.1, JWT, Redis, PostgreSQL
 
 - **AI & Machine Learning:**  
-  - GPT-4, Claude 4, Stable Diffusion, ControlNet, LangChain
+  - GPTo1, Claude 4, Stable Diffusion, ControlNet, LangChain
 
 - **Data Technologies:**  
   - Weaviate, Pinecone, Neo4j, OpenSearch
 
 - **Cloud & Microservices:**  
-  - GraalVM, Project Loom, Kafka, RabbitMQ, gRPC, GraphQL
+  - GraalVM, Project Loom, Kafka,  gRPC, GraphQL
 
 ---
 
