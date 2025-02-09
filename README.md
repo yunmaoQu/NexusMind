@@ -1,7 +1,7 @@
 
 # 🌐 NexusMind
 
-**NexusMind** is a high-performance, intelligent content generation and management platform built on **Java 17** and **Spring Boot 3.x**. It integrates various AI models (like **GPT-o1.5**, **Claude 4**, **Midjourney6.4**, etc.) and advanced search engine technologies to deliver an efficient, personalized content creation experience. 
+**NexusMind** is a high-performance, intelligent content generation and management platform built on **Java 17** and **Spring Boot 3.x**. It integrates various AI models (like **GPT-o3**, **Deepseek**, **Midjourney**, etc.) and advanced search engine technologies to deliver an efficient, personalized content creation experience. 
 
 ![NexusMind Logo](https://cdn-fusion.imgcdn.store/i/2024/d109d27f3b642b39.png) <!-- Replace with actual logo URL -->
 
