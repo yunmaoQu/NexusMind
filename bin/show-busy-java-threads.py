@@ -27,7 +27,7 @@
 # @online-doc https://github.com/qingfeng503/useful-scripts/blob/dev-3.x/docs/java.md#-show-busy-java-threads# @Function
 # Find out the highest cpu consumed threads of java processes, and print the stack of these threads.
 #
-__author__ = 'qingfeng503'
+__author__ = 'yunmaoQu'
 import os
 import subprocess
 import time
